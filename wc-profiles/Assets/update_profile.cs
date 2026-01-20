@@ -36,32 +36,32 @@ public class update_profile : MonoBehaviour
         switch(PlayerPrefs.GetString("view_profile_username")){
             case "babyg1rl_btn":
                 usernameText.text = "BABYG1RL_";
-                abilityText.text = "ABILITY: TBD";
-                creationDateText.text = "USER JOINED: FEB 2014";
+                abilityText.text = "ABILITY: FEARLESS";
+                creationDateText.text = "USER JOINED: TODAY";
                 statusText.text = "STATUS: ALIVE";
                 profilePicture.sprite = babyg1rlProfilePic;
                 statsPicture.sprite = babyg1rlStatsPic;
                 break;
             case "chengxioashi_btn":
                 usernameText.text = "CHENGXIOASHI";
-                abilityText.text = "ABILITY: TBD";
-                creationDateText.text = "USER JOINED: FEB 2014";
+                abilityText.text = "ABILITY: LINK CLICK";
+                creationDateText.text = "USER JOINED: NOV 2025";
                 statusText.text = "STATUS: ALIVE";
                 profilePicture.sprite = chengProfilePic;
                 statsPicture.sprite = chengStatsPic;
                 break;
             case "doppo_btn":
                 usernameText.text = "DOPPO";
-                abilityText.text = "ABILITY: TBD";
-                creationDateText.text = "USER JOINED: FEB 2014";
+                abilityText.text = "ABILITY: TECH SAVVY";
+                creationDateText.text = "USER JOINED: MAY 2025";
                 statusText.text = "STATUS: ALIVE";
                 profilePicture.sprite = doppoProfilePic;
                 statsPicture.sprite = doppoStatsPic;
                 break;
             case "gigolo123_btn":
                 usernameText.text = "GIGOLO";
-                abilityText.text = "ABILITY: TBD";
-                creationDateText.text = "USER JOINED: FEB 2014";
+                abilityText.text = "ABILITY: DON'T STOP THE PARTY";
+                creationDateText.text = "USER JOINED: TODAY";
                 statusText.text = "STATUS: ALIVE";
                 profilePicture.sprite = gigoloProfilePic;
                 statsPicture.sprite = gigoloStatsPic;
@@ -76,32 +76,32 @@ public class update_profile : MonoBehaviour
                 break;
             case "niffty_btn":
                 usernameText.text = "NIFFTY"; 
-                abilityText.text = "ABILITY: TBD"; 
-                creationDateText.text = "USER JOINED: FEB 2014"; 
+                abilityText.text = "ABILITY: BUG MASTER"; 
+                creationDateText.text = "USER JOINED: FEB 2013"; 
                 statusText.text = "STATUS: ALIVE"; 
                 profilePicture.sprite = nifftyProfilePic;
                 statsPicture.sprite = nifftyStatsPic;
                 break;
             case "ph4nt0m_btn":
                 usernameText.text = "PH4NT0M"; 
-                abilityText.text = "ABILITY: TBD";
-                creationDateText.text = "USER JOINED: FEB 2014"; 
+                abilityText.text = "ABILITY: GHOST";
+                creationDateText.text = "USER JOINED: NOV 2022"; 
                 statusText.text = "STATUS: ALIVE"; 
                 profilePicture.sprite = phant0mProfilePic;
                 statsPicture.sprite = phant0mStatsPic;
                 break;
             case "princ3ssgh0st_btn":
                 usernameText.text = "PRINC3SSGH0ST";
-                abilityText.text = "ABILITY: TBD";
-                creationDateText.text = "USER JOINED: FEB 2014";
+                abilityText.text = "ABILITY: ???";
+                creationDateText.text = "USER JOINED: FEB 2016";
                 statusText.text = "STATUS: ALIVE";
                 profilePicture.sprite = princ3ssProfilePic;
                 statsPicture.sprite = princ3ssStatsPic;
                 break;
             case "vivi_btn":
                 usernameText.text = "VIVI";
-                abilityText.text = "ABILITY: TBD";
-                creationDateText.text = "USER JOINED: FEB 2014";
+                abilityText.text = "ABILITY: SLEEP";
+                creationDateText.text = "USER JOINED: FEB 2021";
                 statusText.text = "STATUS: ALIVE";
                 profilePicture.sprite = viviProfilePic;
                 statsPicture.sprite = viviStatsPic;

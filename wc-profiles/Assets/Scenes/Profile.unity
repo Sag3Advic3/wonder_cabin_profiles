@@ -368,7 +368,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 346, y: 116}
+  m_AnchoredPosition: {x: 346, y: 135}
   m_SizeDelta: {x: 200, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &515543319
@@ -418,8 +418,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 45
-  m_fontSizeBase: 45
+  m_fontSize: 25
+  m_fontSizeBase: 25
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -627,23 +627,23 @@ MonoBehaviour:
   profilePicture: {fileID: 1514098647}
   statsPicture: {fileID: 1560049657}
   babyg1rlProfilePic: {fileID: 7371010343787122924, guid: 421470f56d9d24d4881c2383713c371a, type: 3}
-  babyg1rlStatsPic: {fileID: 4207215390542621327, guid: bb78b2100a553be49ae983c05ef3d20a, type: 3}
+  babyg1rlStatsPic: {fileID: 7371010343787122924, guid: 5fb9e10f44828184cbf95633cc810399, type: 3}
   chengProfilePic: {fileID: -2610976476807303580, guid: 219a3f27c3b79db4099b27d115b5535d, type: 3}
-  chengStatsPic: {fileID: 4207215390542621327, guid: bb78b2100a553be49ae983c05ef3d20a, type: 3}
+  chengStatsPic: {fileID: -5536523836755579915, guid: 97b4a810bba6fc94e8cdf7757c5a635d, type: 3}
   doppoProfilePic: {fileID: -9056849420594790847, guid: 5866db3e0fc33824aaaf45636f46e3a2, type: 3}
-  doppoStatsPic: {fileID: 4207215390542621327, guid: bb78b2100a553be49ae983c05ef3d20a, type: 3}
+  doppoStatsPic: {fileID: -9056849420594790847, guid: e494beee05212eb48b8b8475a0181d76, type: 3}
   gigoloProfilePic: {fileID: -3493279375021537587, guid: 70daa80dac1ba6d498fa41acf9954030, type: 3}
-  gigoloStatsPic: {fileID: 4207215390542621327, guid: bb78b2100a553be49ae983c05ef3d20a, type: 3}
+  gigoloStatsPic: {fileID: 4536443638929247854, guid: c81d6769104ecd94faa04e2de8152665, type: 3}
   jammyProfilePic: {fileID: 4207215390542621327, guid: 57f09fc9b29f28542ab2c73188f234de, type: 3}
   jammyStatsPic: {fileID: 4207215390542621327, guid: bb78b2100a553be49ae983c05ef3d20a, type: 3}
   nifftyProfilePic: {fileID: -3269186237197633102, guid: 439dc37ef2110004992fbaf861e8b0fd, type: 3}
-  nifftyStatsPic: {fileID: 4207215390542621327, guid: bb78b2100a553be49ae983c05ef3d20a, type: 3}
+  nifftyStatsPic: {fileID: -3269186237197633102, guid: fe52c0697540d4c4492bfd848c33fb6a, type: 3}
   phant0mProfilePic: {fileID: 4142006891278568266, guid: 0975f2bd07072504e8a8a6ad4b4d2079, type: 3}
-  phant0mStatsPic: {fileID: 4207215390542621327, guid: bb78b2100a553be49ae983c05ef3d20a, type: 3}
+  phant0mStatsPic: {fileID: 8641013784092387793, guid: 1df6cc2d2917eca4cabd79eefb931eb4, type: 3}
   princ3ssProfilePic: {fileID: -6199264949925683130, guid: e6b18b14346870b4c80428ef8a97a41a, type: 3}
-  princ3ssStatsPic: {fileID: 4207215390542621327, guid: bb78b2100a553be49ae983c05ef3d20a, type: 3}
+  princ3ssStatsPic: {fileID: -4450822476947297546, guid: 3ad9e5814cc8ff54b82395222c67e5ef, type: 3}
   viviProfilePic: {fileID: -9107375033425576051, guid: aad4b57462f2551439e65c13d302fb7f, type: 3}
-  viviStatsPic: {fileID: 4207215390542621327, guid: bb78b2100a553be49ae983c05ef3d20a, type: 3}
+  viviStatsPic: {fileID: -9107375033425576051, guid: e9a1ecb95859a1044aead47e9e11cbfe, type: 3}
 --- !u!1 &619394800
 GameObject:
   m_ObjectHideFlags: 0
@@ -2014,7 +2014,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 346, y: 66}
+  m_AnchoredPosition: {x: 346, y: 82}
   m_SizeDelta: {x: 200, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1840904601
@@ -2064,15 +2064,15 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 45
-  m_fontSizeBase: 45
+  m_fontSize: 40
+  m_fontSizeBase: 40
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
   m_fontSizeMax: 72
   m_fontStyle: 0
   m_HorizontalAlignment: 2
-  m_VerticalAlignment: 512
+  m_VerticalAlignment: 256
   m_textAlignment: 65535
   m_characterSpacing: 0
   m_wordSpacing: 0
